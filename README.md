@@ -2,7 +2,7 @@
 
 # Terraform Provider OpenAI
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE) [![Latest Release](https://img.shields.io/github/release/guillaume-dussault/terraform-provider-openai.svg?style=flat-square)](https://github.com/guillaume-dussault/terraform-provider-openai/releases/latest)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg?style=flat-square)](LICENSE) [![Latest Release](https://img.shields.io/github/release/nventive/terraform-provider-openai.svg?style=flat-square)](https://github.com/nventive/terraform-provider-openai/releases/latest)
 
 ## Requirements
 

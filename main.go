@@ -33,7 +33,7 @@ func main() {
 	flag.Parse()
 
 	opts := providerserver.ServeOpts{
-		Address: "registry.terraform.io/guillaume-dussault/openai",
+		Address: "registry.terraform.io/nventive/openai",
 		Debug:   debug,
 	}
 

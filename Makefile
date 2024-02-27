@@ -1,5 +1,5 @@
 HOSTNAME=registry.terraform.io
-NAMESPACE=guillaume-dussault
+NAMESPACE=nventive
 NAME=openai
 BINARY=terraform-provider-${NAME}
 VERSION=1.0
